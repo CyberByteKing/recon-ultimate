@@ -1,0 +1,4 @@
+This is a newly developed tool that is still in beta testing and has some bugs and logic errors.
+Developements on this tool will be made live and future upgrades will proceed.
+This is a tool made by combining the recon,subdomain scanning and hidden values finding ability of my recon tool and the ability to find vulunerabilities.
+It can find vulunerabilities on the website and on his subdomains and also it finds hidden values in the html like the recon tool.
