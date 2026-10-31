@@ -1,3 +1,6 @@
+This might at first look like my prevoius Recon Tool but this is something new because it can find vulunerabilities
+It shows only the real high impact vulanurbilties that actually exist so it wont show anything on google but it works on less secure websites.
+This is the first beta version so there will be mistakes and bugs.
 This is a newly developed tool that is still in beta testing and has some bugs and logic errors.
 Developements on this tool will be made live and future upgrades will proceed.
 This is a tool made by combining the recon,subdomain scanning and hidden values finding ability of my recon tool and the ability to find vulunerabilities.
